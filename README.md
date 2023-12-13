@@ -1,5 +1,5 @@
  Hi 👋, I’m Abdul Rahman
-- 👀 I’m interested in ...
+- 👀 I’m interested in Frontend Technology
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me skabdulrahman447@gmail.com
 - 💬 Ask me about Javascript, HTML5, CSS3, React.js
